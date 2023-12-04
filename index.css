@@ -52,10 +52,12 @@ img {
   -webkit-text-fill-color: transparent;
 }
 /* LANDING PAGE END */
+
+/* SKILLS SECTION START */
 .skills {
   min-height: 28vh;
 }
-/* SKILLS SECTION START */
+
 .skills-content {
   padding: 2rem;
   text-align: center;
@@ -85,14 +87,13 @@ img {
 
 .skills-content:hover {
   box-shadow: 0 5px #17a2b8;
+  transform: translateY(-8px) !important;
 }
+
 .skills-content:hover .skills-icon {
   transform: translateY(-8px);
 }
 .skills-content:hover .skills-text {
-  transform: translateY(-8px);
-}
-.skills-content:hover {
   transform: translateY(-8px);
 }
 
