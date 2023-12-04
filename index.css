@@ -135,6 +135,9 @@ img {
   -webkit-text-fill-color: transparent;
 }
 
+#padding-project {
+  padding-bottom: 2rem;
+}
 .projects {
   font-family: "Playfair Display", Arial, sans-serif;
   position: relative;
@@ -351,6 +354,7 @@ iframe {
 }
 
 #socMed {
+  padding-bottom: 2rem;
   background: #17a2b8;
   background: linear-gradient(to right, #17a2b8 0%, #ff69b4 100%);
   -webkit-background-clip: text;
