@@ -327,7 +327,7 @@ img {
 /* TOOL SECTION END */
 
 #contact {
-  max-height: 100vh;
+  min-height: 70vh;
 }
 iframe {
   width: 650px;
