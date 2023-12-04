@@ -1,6 +1,6 @@
 {
     "capstone": {
-        "liveLink": "<github page link>",
+        "liveLink": "https://judeeeeev.github.io/webportfolio/",
         "name": "Jude Mikael Valencia",
         "isMulti": false
     }
